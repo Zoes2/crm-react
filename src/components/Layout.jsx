@@ -3,7 +3,7 @@ import { Outlet, Link, useLocation } from "react-router-dom"
 function Layout() {
 
     const location = useLocation()
-
+//Link lo usaremos para crear una barra de navegacion para que el usuario pueda utlizar
     return (
         <div className="md:flex md:min-h-screen">
             <aside className="md:w-1/4 bg-blue-900 px-5 py-10">

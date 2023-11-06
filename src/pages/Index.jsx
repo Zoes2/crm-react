@@ -10,7 +10,7 @@ export function loader() {
     //EL error ocurre cuando cargamos el componente vacio ya sea en loaders o dentro de la función
     //Y Son los componentes de React que obtienen los errores en cualquier lugar del componente en general
     //muestran un error y donde proviene el error
-    return 
+    return clientes
 
     
 
